@@ -1,4 +1,54 @@
 # Tech-Writing-learning
+# Dillinger
+# **Shruthi**
+# **Praveen**
+# _Kumar_
+# _Hiremath_
+# Techies
+- Bangalore
+    - Bhutan
+    - Nepal
+- Japan
+- Australia
+- Malaysia
+
+1. Home
+1. Heart
+1. Happiness
+2. Heaven
+
+`Owls` are birds from the order Strigiformes[1] (/ˈstrɪdʒəfɔːrmiːz/), which includes over 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl. ***Owls*** hunt mostly small mammals, insects, and other birds, although a few species specialize in hunting fish. They are found in all regions of the ___Earth___ except the polar ice caps and some remote islands.
+[***OWLS are Nocturnal: Learn further***](https://www.google.com/search?gs_ssp=eJzj4tDP1TewTDGNN2D0Ys4vzwEAH0AEDw&q=owl&rlz=1C1CHBF_enIN982IN982&oq=owl&aqs=chrome.1.0i271j46i433i512j0i433i512j46i199i433i465i512j0i512l3j0i433i512j0i512j0i433i512.2892j0j15&sourceid=chrome&ie=UTF-8)
+![OWL](http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcS6WnMGa0uRqjzYYZTfBIXHmvqwLjLBSaRHeiweelOGFDsqYI4qyaCV5e_KKYXUQm1RVbPpVdd1FCcz_kU)
+```
+def page
+    puts "TWT!"
+end
+```
+
+Name | Game | Country
+:--- |--- |---: 
+Sania Mirza |Tennis |India
+Saurav Ganguly |Cricket |India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Owls are birds from the order Strigiformes[1] (/ˈstrɪdʒəfɔːrmiːz/), which includes over 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.
 
 Owls hunt mostly small mammals, insects, and other birds, although a few species specialize in hunting fish. They are found in all regions of the Earth except the polar ice caps and some remote islands.
